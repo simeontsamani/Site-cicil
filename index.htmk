@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KAMBALE TSAMANI SIMÉON - L3 IAGE</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f4f4f4;color:#222}
+header{background:#111;color:white;padding:40px 20px;text-align:center}
+header h1{margin:0;font-size:28px}
+header p{color:#ccc;margin:5px 0}
+.container{max-width:700px;margin:20px auto;padding:0 15px}
+.card{background:white;padding:20px;border-radius:12px;margin-bottom:15px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+.card h2{margin-top:0;color:#111}
+a{color:#0b5ed7;text-decoration:none;font-weight:bold}
+.btn{display:inline-block;background:#111;color:white;padding:10px 18px;border-radius:8px;margin-top:10px}
+footer{text-align:center;padding:20px;color:#888;font-size:13px}
+</style>
+</head>
+<body>
+
+<header>
+<h1>KAMBALE TSAMANI SIMÉON</h1>
+<p>L3 IAGE - Informatique de Gestion</p>
+<p>TP Cecil - Portfolio</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>À propos de moi</h2>
+<p>Salut, moi c'est <b>Kambale Tsamani Siméon</b>.<br>
+Je suis étudiant en L3 IAGE. J'apprends le développement web, le Cloud Computing et la création de sites.</p>
+</div>
+
+<div class="card">
+<h2>Mes Projets</h2>
+<p><b>1. Mon Portfolio Lovable</b><br>
+<a href="#">Mettre le lien Lovable ici</a></p>
+<p><b>2. Mon Blog Cloud Computing</b><br>
+<a href="#">Mettre le lien Blog ici</a></p>
+<p><b>3. Mon Profil GitHub</b><br>
+<a href="#">Mettre le lien GitHub ici</a></p>
+</div>
+
+<div class="card">
+<h2>Me Contacter</h2>
+<p>Nom : KAMBALE TSAMANI SIMÉON<br>
+Classe : L3 IAGE<br>
+GitHub : À compléter</p>
+<a class="btn" href="#">Voir mon GitHub</a>
+</div>
+
+</div>
+
+<footer>© 2026 - KAMBALE TSAMANI SIMÉON - L3 IAGE</footer>
+
+</body>
+</html>
